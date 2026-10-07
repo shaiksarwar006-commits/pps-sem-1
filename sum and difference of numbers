@@ -3,9 +3,10 @@
 int main()
 {
     int a, b;
-    float x, y;
-
+    int x, y;
+    printf(" ENTER TWO VALUES");
     scanf("%d %d", &a, &b);
+    printf("ENTER ANOTHER TWO VALUES");
     scanf("%f %f", &x, &y);
 
     printf("%d %d\n", a + b, a - b);
