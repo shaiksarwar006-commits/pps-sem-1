@@ -9,6 +9,7 @@ int main()
     scanf("%d", &b);
 
 
+
     for (int n = a; n <= b; n++)
     {
         if (n >= 1 && n <= 9)
